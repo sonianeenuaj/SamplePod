@@ -1,0 +1,22 @@
+{
+  "name": "SamplePod",
+  "version": "0.1.0",
+  "summary": "Adding 2 numbers",
+  "description": "this will perform addition of two numbers",
+  "homepage": "https://github.com/sonianeenuaj/SamplePod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sonianeenuaj": "sonianeenu@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/sonianeenuaj/SamplePod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "SamplePod/Classes/**/*"
+}

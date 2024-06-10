@@ -1,6 +1,6 @@
 # SamplePod
 
-[![CI Status](https://img.shields.io/travis/Sonianeenu-aj/SamplePod.svg?style=flat)](https://travis-ci.org/Sonianeenu-aj/SamplePod)
+[![CI Status](https://img.shields.io/travis/sonianeenuaj/SamplePod.svg?style=flat)](https://travis-ci.org/sonianeenuaj/SamplePod)
 [![Version](https://img.shields.io/cocoapods/v/SamplePod.svg?style=flat)](https://cocoapods.org/pods/SamplePod)
 [![License](https://img.shields.io/cocoapods/l/SamplePod.svg?style=flat)](https://cocoapods.org/pods/SamplePod)
 [![Platform](https://img.shields.io/cocoapods/p/SamplePod.svg?style=flat)](https://cocoapods.org/pods/SamplePod)
@@ -22,7 +22,7 @@ pod 'SamplePod'
 
 ## Author
 
-Sonianeenu-aj, sonianeenu@gmail.com
+sonianeenuaj, sonianeenu@gmail.com
 
 ## License
 
